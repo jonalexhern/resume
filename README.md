@@ -1,2 +1,6 @@
 # resume
 Jonathan Hernandez!!!
+
+A brief description of this project and instructions...
+
+Another change...
