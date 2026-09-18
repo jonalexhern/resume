@@ -28,5 +28,5 @@ There we go!
 
 >Here is a picture of my favorite dinosaur, the Diplodocus:  
 >
->  ![Diplodocus](/diplodocus.jpeg)
->source of image: https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html
+>  ![Diplodocus](/diplodocus.jpeg)  
+>source of image: https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html  
