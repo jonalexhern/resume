@@ -26,5 +26,5 @@ There we go!
 
 ## Image Testing
 
->Here is a picture of my favorite dinosaur, the Diplodocus:
+>Here is a picture of my favorite dinosaur, the Diplodocus:  
 ><img width="400" height="167" alt="diplodocus" src="https://github.com/user-attachments/assets/0d4433f3-65d6-47dd-bf6b-c963b54baa7d" />
