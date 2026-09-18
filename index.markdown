@@ -1,4 +1,4 @@
-# Home Page :cold_face:
+# Home Page
 
 *This is my home page, it's not as serious as it should be for now, as I am just practicing!*
 
