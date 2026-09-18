@@ -21,7 +21,7 @@ I find it quite simple, here is a list of languages I find simple:
 Here, let me place a link to test my markdown skills  
 `https://www.youtube.com/`  
 oh whoops that didn't work... let me try again...  
-https://www.youtube.com/  
+[YouTube](https://www.youtube.com/)    
 There we go!
 
 ## Image Testing
