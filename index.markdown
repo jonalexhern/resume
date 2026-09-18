@@ -10,7 +10,7 @@ My name is **Jonathan Hernandez**. I am a Graphic Designer!!
 
 ## Why Like This?
 
-I am practicing my skills in website programming... Currently I am learning ==markdown!==
+I am practicing my skills in website programming... Currently I am learning ***markdown!***
 I find it quite simple, here is a list of languages I find simple:
 - [x] Markdown
 - [x] HTML
@@ -18,7 +18,7 @@ I find it quite simple, here is a list of languages I find simple:
 
 ## Further Practicing
 
-Here, let me place a link to test my markdown skills:
+Here, let me place a link to test my markdown skills
 `https://www.youtube.com/`
 oh whoops that didn't work... let me try again...
 https://www.youtube.com/
