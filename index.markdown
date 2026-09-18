@@ -21,7 +21,7 @@ I find it quite simple, here is a list of languages I find simple:
 Here, let me place a link to test my markdown skills  
 `https://www.youtube.com/`  
 oh whoops that didn't work... let me try again...  
-[YouTube](https://www.youtube.com/)    
+[youtube](https://www.youtube.com/)    
 There we go!
 
 ## Image Testing
@@ -29,4 +29,4 @@ There we go!
 >Here is a picture of my favorite dinosaur, the Diplodocus:  
 >
 >  ![Diplodocus](/diplodocus.jpeg)  
->source of image: https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html  
+>*[source for image](https://www.nhm.ac.uk/discover/dino-directory/diplodocus.html)*  
